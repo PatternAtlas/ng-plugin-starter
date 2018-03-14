@@ -1,0 +1,28 @@
+{
+  "name": "ng-plugin-starter",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PatternPedia/ng-plugin-starter"
+  },
+  "author": {
+    "name": "Michael Wurster",
+    "email": "miwurster@googlemail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PatternPedia/ng-plugin-starter/issues"
+  },
+  "main": "ng-plugin-starter.umd.js",
+  "module": "ng-plugin-starter.js",
+  "jsnext:main": "ng-plugin-starter.js",
+  "typings": "ng-plugin-starter.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
